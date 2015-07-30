@@ -1,8 +1,8 @@
 {
 	"manifest_version": 2,
-	"name": "Cloud To Butt",
+	"name": "Donald Trump to Whining 4 year old",
 	"version": "1.0",
-	"description": "Replaces the text 'the cloud' with 'my butt'.",
+	"description": "Replaces the text 'Donald Trump' with 'a whining 4 year old'.",
 	"content_scripts": 
 	[
 		{
@@ -12,4 +12,3 @@
 		}
 	]
 }
-
