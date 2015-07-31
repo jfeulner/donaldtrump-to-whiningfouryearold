@@ -34,7 +34,9 @@ function handleText(textNode)
 	v = v.replace(/\bDonald Trump\b/g, "A whining 4 year old");
 	v = v.replace(/\bDonald trump\b/g, "A whining 4 year old");
 	v = v.replace(/\bdonald Trump\b/g, "A whining 4 year old");
-	v = v.replace(/\bdonald turmp\b/g, "A whining 4 year old");
+	v = v.replace(/\bdonald trump\b/g, "A whining 4 year old");
+	v = v.replace(/\bDonald J. Trump\b/g, "A whining 4 year old");
+	v = v.replace(/\bDonald J trump\b/g, "A whining 4 year old");
 	
 	textNode.nodeValue = v;
 }
