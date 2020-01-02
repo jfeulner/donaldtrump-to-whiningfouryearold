@@ -1,7 +1,7 @@
 {
-	"manifest_version": 2,
+	"manifest_version": 3,
 	"name": "Donald Trump to Whining 4 year old",
-	"version": "1.0",
+	"version": "1.01",
 	"description": "Replaces the text 'Donald Trump' with 'a whining 4 year old'.",
 	"content_scripts": 
 	[
